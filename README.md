@@ -1,3 +1,3 @@
 # configure
 
-Different configurations for different platforms
+Different work configurations for specific platforms
